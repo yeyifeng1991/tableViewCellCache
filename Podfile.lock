@@ -1,0 +1,25 @@
+PODS:
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - UITableView+FDTemplateLayoutCell (1.4)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - SDWebImage
+  - UITableView+FDTemplateLayoutCell
+  - YYKit
+  - YYText
+
+SPEC CHECKSUMS:
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  UITableView+FDTemplateLayoutCell: 234e1582bcc4e18461af91155123bb96538ed030
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: 23e0317bbe47f1370febaf17b1c5aac9ff4f78e8
+
+COCOAPODS: 1.4.0
